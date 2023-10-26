@@ -86,7 +86,7 @@ def main():
         log("❌ Path must be an existing folder")
         return
     if os.listdir(exportFolder):
-        log("❌ Folder is not empty! Please choose a diffrent folder")
+        log("❌ Folder is not empty! Please choose a different folder")
         return
     
     stage = "load index -> load json"
