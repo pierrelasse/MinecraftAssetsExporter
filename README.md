@@ -1,6 +1,7 @@
 # MinecraftAssetsExporter
 
-This tool made in python lets you export the normally inaccessible to a folder.
+This tool made in python lets you extract files normally inaccessable to humans.<br />
+The program should work on all operating systems that have python installed.
 
 This contains (for newest mc versions):
  * Icons
