@@ -27,4 +27,6 @@ A:\test>python main.py
 📀 Please enter a version: 1.8
 📁 Path to export folder (ex. C:/exported_assets/): A:/assets_export/
 ⏳ 0 files left to export...
+
+✅ Exported 123 file/s!
 ```
